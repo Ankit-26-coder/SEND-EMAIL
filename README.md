@@ -6,3 +6,6 @@ when you run the server then you will see this type of interface
 
 when you click on the send button then you will see that one message is printed on screen that message send succefully.
 ![done](https://user-images.githubusercontent.com/78656754/137631541-e60279e6-c74f-4f73-be24-d7a0ffc8de9c.png)
+after that see the terminal the message you sent which will be showing in terminal..
+![terminal](https://user-images.githubusercontent.com/78656754/137631655-f161ce25-c02e-4cd3-8f35-64cb834e7795.png)
+
